@@ -1,0 +1,32 @@
+.MyDiv1 
+{
+  padding: 0px 0px 0px 200px;
+}
+
+.MyDiv2 
+{
+  padding: 0px 0px 0px 100px;
+}
+
+.center 
+{
+  margin: auto;
+  width: 900px;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  vertical-align: top;
+}
+
+td
+{
+  font-family:Arial,Tahoma, Verdana;
+}
+
+li
+{
+  color:white;
+}
+p
+{
+  font-family:Arial,Tahoma, Verdana; color:white;
+}
